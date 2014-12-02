@@ -1,8 +1,8 @@
 # GroundTruth
 
-![Sample coffee review](https://github.com/9b/groundtruth/blob/master/data/gt.png "Coffee Review")
-
 A simple web application to display data collected from [Sweet Maria's roasters](http://www.sweetmarias.com/). It should be noted that the data collected was from 2008 until recent and each coffee score was manually transcribed from the review photo. 
+
+![Sample coffee review](https://github.com/9b/groundtruth/blob/master/data/gt.png "Coffee Review")
 
 ## Getting up and running
 
